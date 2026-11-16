@@ -1,103 +1,28 @@
-# Hi, I'm Muhamad Faiz Ramadhan 👋
+# Muhamad Faiz Ramadhan
 
-### Frontend Developer | React • TypeScript • Next.js | AI-Assisted Development
+Frontend developer from Indonesia. I work mostly with React, Next.js and TypeScript, and use Supabase or Firebase when a project needs a backend.
 
-I'm a frontend developer focused on building practical web applications that solve real-world problems.
+## Projects
 
-I enjoy turning ideas into functional products, improving user experience, and using AI-assisted development tools to build and iterate faster.
+**[Booking-Azubix](https://github.com/FaizRamadhannn/Booking-Azubix)** — booking system for private German classes. Students pick a level, date and time slot and pay by QRIS; the teacher confirms payments and manages the schedule from an admin dashboard.
+Next.js, TypeScript, Tailwind CSS, Supabase · [live](https://bookingazubix.vercel.app)
 
----
+**[tokogue](https://github.com/FaizRamadhannn/tokogue)** — employee app for a small shop: attendance with GPS and selfie, tasks, leave requests, stock and a member card.
+Flutter, Supabase · [live](https://tokogue-sigma.vercel.app)
 
-## What I Do
+**[Smart Review](https://github.com/FaizRamadhannn/smartreview-demo)** — sends customers to a business's Google review page from an NFC tag or QR code, with a small dashboard to manage clients.
+JavaScript, Vite, Tailwind CSS · [live](https://smartreview-demo.vercel.app)
 
-* Build responsive and user-focused web applications
-* Develop with React, TypeScript, and Next.js
-* Work with REST APIs and backend services
-* Build Progressive Web Apps (PWAs)
-* Integrate Firebase and other cloud services
-* Use AI-assisted development tools to accelerate coding and prototyping
-* Continuously improve code quality, security, and development workflow
+**[moneyKu](https://github.com/FaizRamadhannn/Ayang-Money)** — personal finance tracker with savings goals and a wishlist. Data stays in the browser.
+Next.js, Tailwind CSS, Dexie (IndexedDB) · [live](https://ayang-money.vercel.app)
 
----
+## Stack
 
-## 🛠️ Tech Stack
+- React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- Supabase, Firebase
+- Git, Vercel, and AI coding tools as part of my workflow
 
-**Frontend**
+## Contact
 
-`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
-
-**Backend & Database**
-
-`Firebase` `Supabase` `Firestore`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Vercel`
-
-**AI-Assisted Development**
-
-`AI Coding Assistants` `AI-Assisted Debugging` `AI-Assisted Prototyping`
-
----
-
-## 📌 Featured Projects
-
-### German Class Booking System
-
-A booking system designed to simplify private German class scheduling.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • Supabase
-
-**Focus:** Scheduling logic, booking flow, database design, and user experience.
-
----
-
-### Smart Review
-
-A digital Google Review solution combining NFC and QR technology to make it easier for customers to leave reviews.
-
-**Tech:** React • TypeScript • Firebase • Vite
-
-**Focus:** NFC/QR interaction, Google Review integration, dashboard, and product-oriented development.
-
----
-
-### MyMoney
-
-A Progressive Web App for tracking personal finances.
-
-**Tech:** Next.js • TypeScript • PWA
-
-**Focus:** Financial tracking, responsive UI, local data management, and mobile-first experience.
-
----
-
-## Currently Learning
-
-* Advanced React & TypeScript
-* Next.js
-* Web security
-* Clean code & scalable frontend architecture
-* Git & GitHub workflow
-* AI-assisted software development
-
----
-
-## My Development Philosophy
-
-> Build something useful.
-> Solve the problem first.
-> Improve the implementation continuously.
-
-I believe good software is not only about writing code, but about understanding the problem, designing a practical solution, and continuously improving it.
-
----
-
-## Let's Connect
-
-* LinkedIn: **[https://www.linkedin.com/in/faiz-muhamad-69b413366/]**
-* Portfolio: **[https://faizramadhan-portofolio.vercel.app/]**
-
----
-
-⭐ Thanks for visiting my profile!
+- LinkedIn: [faiz-muhamad](https://www.linkedin.com/in/faiz-muhamad-69b413366/)
+- Portfolio: [faizramadhan-portofolio.vercel.app](https://faizramadhan-portofolio.vercel.app/)
